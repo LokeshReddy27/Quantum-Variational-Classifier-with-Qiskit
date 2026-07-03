@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quantum Variational Classifier
 
 Hybrid quantum-classical machine learning model built with **Qiskit**. Encodes classical data into quantum states, processes through parameterized variational circuits, and optimizes with COBYLA — no quantum hardware required (runs on Aer simulator).
@@ -54,3 +55,6 @@ This project demonstrates the core concepts behind near-term quantum advantage:
 ## Author
 
 **Gummadi Lokesh S P Reddy** — github.com/LokeshReddy27
+=======
+# Quantum-Variational-Classifier-with-Qiskit
+>>>>>>> c799d877562066aca80fefbe8a4dbc4fc5cd4b34
